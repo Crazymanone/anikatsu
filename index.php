@@ -2,10 +2,10 @@
 require('./_config.php');
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
-    <title>
+    <title> 
         <?= $websiteTitle ?> - Official
         <?= $websiteTitle ?> Watch High Quality Anime Online Without Ads
     </title>
